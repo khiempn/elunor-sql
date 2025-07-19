@@ -32,7 +32,14 @@ This is a custom extension for **SQL Server Management Studio (SSMS)** that prov
 
 - SSMS 18.x (tested)
 - Windows 10 / 11
+- 
+## ☕ Buy Me a Coffee
 
+If you find this extension helpful, you can support my work here:
+
+👉 [https://buymeacoffee.com/elunorsql](https://buymeacoffee.com/elunorsql)
+
+Your support helps me build more great tools for the community!
 
 ## 📃 License
 

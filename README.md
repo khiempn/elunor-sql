@@ -16,7 +16,7 @@ This is a custom extension for **SQL Server Management Studio (SSMS)** that prov
 3. Copy the extracted folder to:
 
    ```
-   C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\YourExtensionName\
+   C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\ElunorSQL\
    ```
 
 4. Make sure the folder contains the `extension.vsixmanifest` file and other binaries.

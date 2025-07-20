@@ -1,4 +1,4 @@
-# SSMS Extension - Elunor SQL
+# SSMS Extension - Elunor SQL [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/khiempn/elunor-sql/blob/main/LICENSE) ![latest v1.0.0](https://img.shields.io/badge/latest-1.0.0-green)
 
 This is a custom extension for **SQL Server Management Studio (SSMS)** that provides enhanced functionality to improve your SQL development workflow.
 

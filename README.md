@@ -9,20 +9,27 @@ This is a custom extension for **SQL Server Management Studio (SSMS)** that prov
 - Grid Result Aggregate
 - Grid Result Aggregate
 - SQL History
-## 📦 Installation
+  
+## 📦 Installation - Using Setup File
+
+1. Download file elunorsql_setup.exe
+2. Browser to folder C:\Program Files (x86)\Microsoft SQL Server Management Studio 1x\Common7\IDE\Extensions\Elunor SQL\
+3. Click Next to Install
+   
+## 📦 Installation - Using Vsix File
 
 1. Rename `ElunorSQL.vsix` to `ElunorSQL.zip`.
 2. Extract the contents of the `.zip` file.
 3. Copy the extracted folder to:
 
    ```
-   C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\ElunorSQL\
+   C:\Program Files (x86)\Microsoft SQL Server Management Studio 1x\Common7\IDE\Extensions\Elunor SQL\
    ```
 
 4. Make sure the folder contains the `extension.vsixmanifest` file and other binaries.
 5. Unlock the files using PowerShell
    ```
-      PS C:\> dir C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions\ElunorSQL\ | Unblock-File
+      PS C:\> dir C:\Program Files (x86)\Microsoft SQL Server Management Studio 1x\Common7\IDE\Extensions\Elunor SQL\ | Unblock-File
    ```
 6. Restart SSMS.
 

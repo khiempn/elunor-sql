@@ -12,8 +12,8 @@ This is a custom extension for **SQL Server Management Studio (SSMS)** that prov
   
 ## 📦 Installation - Using Setup File
 
-1. Download file elunorsql_setup.exe
-2. Browser to folder C:\Program Files (x86)\Microsoft SQL Server Management Studio 1x\Common7\IDE\Extensions\Elunor SQL\
+1. Download file `elunorsql_setup.exe`
+2. Browser to folder `C:\Program Files (x86)\Microsoft SQL Server Management Studio 1x\Common7\IDE\Extensions\Elunor SQL\`
 3. Click Next to Install
    
 ## 📦 Installation - Using Vsix File

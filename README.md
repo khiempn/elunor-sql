@@ -37,8 +37,7 @@ This is a custom extension for **SQL Server Management Studio (SSMS)** that prov
 ## 🧪 Compatibility
 
 - SSMS 18.x (tested)
-- Windows 10 / 11
-- 
+- SSMS 19.x (tested)
 ## ☕ Buy Me a Coffee
 
 If you find this extension helpful, you can support my work here:

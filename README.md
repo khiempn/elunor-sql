@@ -1,4 +1,4 @@
-# SSMS Extension - Elunor SQL [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/khiempn/elunor-sql/blob/main/LICENSE) ![latest v1.0.0](https://img.shields.io/badge/latest-1.0.0-green)
+# SSMS Extension - Elunor SQL [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/khiempn/elunor-sql/blob/main/LICENSE) ![latest v1.0.1](https://img.shields.io/badge/latest-1.0.1-green)
 
 This is a custom extension for **SQL Server Management Studio (SSMS)** that provides enhanced functionality to improve your SQL development workflow.
 
@@ -35,9 +35,10 @@ This is a custom extension for **SQL Server Management Studio (SSMS)** that prov
 > ⚠️ Manual installs may not work properly if the extension is not fully registered.
 
 ## 🧪 Compatibility
-
+- SSMS 17.x (tested)
 - SSMS 18.x (tested)
 - SSMS 19.x (tested)
+- SSMS 20.x (tested)
 ## ☕ Buy Me a Coffee
 
 If you find this extension helpful, you can support my work here:
